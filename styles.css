@@ -119,3 +119,12 @@ hr {
 #footer p {
     text-align: center;
 }
+
+.linkedin {
+    text-align: center;
+
+}
+
+.logolink:hover {
+    background-color: #113580;
+}
