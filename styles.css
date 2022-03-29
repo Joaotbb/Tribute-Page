@@ -26,6 +26,19 @@ h2 {
     font-size: 1em;
 }
 
+
+.icon {
+    fill: gray;
+}
+
+.icon:hover {
+    fill: blue;
+}
+
+.icondiv {
+    padding-top: 20px;
+}
+
 #aka {
     color: #c78e52;
 }
@@ -101,9 +114,6 @@ p:last-child {
     border-bottom-left-radius:0;
 }
 
-a:hover {
-    color: #003B00;
-}
 
 p {
     text-align: justify;
@@ -123,8 +133,15 @@ hr {
 .linkedin {
     text-align: center;
 
+
 }
 
 .logolink:hover {
     background-color: #113580;
+
+}
+
+.logolink {
+object-position: center;
+padding-top: 40px;
 }
